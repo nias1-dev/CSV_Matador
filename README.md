@@ -1,4 +1,5 @@
-Secure Sales Analytics Pipeline (Python + AWS S3)
+Secure Sales Analytics Pipeline (Python + AWS S3) 
+Completed 1/2 by A.S.III
 Overview
 
 This project is a Python-based data processing pipeline that ingests a sales CSV file, performs analytics using Pandas, generates derived reports, and securely uploads results to AWS S3.
@@ -18,3 +19,5 @@ Features
 🧹 Automatically removes local artifacts after upload
 
 🔐 Uses environment variables for all sensitive configuration
+
+
